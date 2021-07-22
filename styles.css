@@ -431,13 +431,7 @@ main{
     line-height: 1.8rem;
     color: black;
 }
-.plan-card--title{
-    padding-top: 31px;
-    font-size: 1.4rem;
-    font-weight: 500;
-    line-height: 1.8rem;
-    color: black;
-}
+
 .plan-card--price{
     padding: 5px 0;
     font-family:'Inter', 'sans serif';
